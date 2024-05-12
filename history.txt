@@ -1,0 +1,313 @@
+    1  git
+    2  git -v
+    3  сдуфк
+    4  clear
+    5  git config
+    6  clear
+    7  clear
+    8  git
+    9  clear
+   10  git config --global user
+   11  clear
+   12  git config --global user
+   13  git config --global user.name
+   14  git config --global user.name 'gleivic'
+   15  git config --global user.name
+   16  git config --global user.name 'Stepan Honcharenko'
+   17  git config --global user.name
+   18  сlear\
+   19  clear
+   20  git config --global user.email
+   21  git config --global user.mail bebrou1234@gmail.com
+   22  git config --global user.mail
+   23  git config --global user.name
+   24  clear
+   25  git
+   26  git --version
+   27  git -help
+   28  code .
+   29  pwd
+   30  cd
+   31  ssh-keygen
+   32  cat .ssh/
+   33  cat .ssh/id_ed25519
+   34  cat .ssh/id_ed25519.pub
+   35  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   36  clear
+   37  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   38  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   39  cd
+   40  df > 1.txt
+   41  scp 1.txt ec2-user@linux.itcareerhub.de:/opt/040324-wd/Gleivic
+   42  ls -la
+   43  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   44  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   45  [200~linux.itcareerhub.de~
+   46  ssh username@linux.itcareerhub.de
+   47  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   48   cd
+   49  cat .ssh/
+   50  cd
+   51  cat .ssh/id_rsa.pub
+   52  cat .ssh/
+   53  cat .ssh/id_ed25519.pub
+   54  cd
+   55  clear
+   56  mkdir git
+   57  cd git
+   58  pwd
+   59  echo "# git" >> README.md
+   60  ls
+   61  git init
+   62  git add .
+   63  git status
+   64  git add .
+   65  git status
+   66  git commit -m "first commit"
+   67  git config --global user.email "bebrou1234@gmail.com"
+   68   git config --global user.name  "Goncharenko-Stepan"
+   69  git branch -M main
+   70  git remote add origin git@github.com:Goncharenko-Stepan/git.git
+   71  git remote -v
+   72  git push -u origin main
+   73  history
+   74   git config --global user.name  "Goncharenko-Stepan"
+   75  git push
+   76  git push --set-upstream origin main
+   77  git status
+   78  git commit -m "adwa;iuqhf"
+   79  git push --set-upstream origin main
+   80  history
+   81  ls
+   82       git init
+   83  echo "#test20" >> README.md
+   84  ls -a
+   85  git status
+   86  git add .
+   87  git status
+   88  git branch -M main
+   89  git remote add origin git@github.com:Goncharenko-Stepan/test20.git
+   90  git remote -v
+   91  git push -u origin main
+   92  git commit -m
+   93  git commit -m "A3p8ruosidhfewiufow"
+   94  git push -u origin main
+   95  git init
+   96  git add sreenshot1
+   97  git add sreenshot2
+   98  git add README.md
+   99  git commit -m "Added photo"
+  100  git branch -M main
+  101  git remote add origin git@github.com:Goncharenko-Stepan/git_intro.git
+  102  git push -u origin main
+  103  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  104  ping https://chat.openai.com/~
+  105  ping chat.openai.com
+  106  touch myfirstbashscript.sh
+  107  chmod 744 myfirstbashscript.sh
+  108  USER="Goncharenko_Stepan"
+  109  CURRENT_DATE=$(date +"%y-%m-%d %H:%M:%S")
+  110  echo "Hello, $USER!"
+  111  echo "Current date: $CURRENT_DATE"
+  112  CURRENT_DIRECTORY=$(pwd)
+  113  PROCESS_COUNT=$(ps aux | grep -v grep | grep -c bioset)
+  114  PERMISSIONS=$(ls -l /etc/passwd | awk '{print $1}')
+  115  PERMISSIONS=$(ls -l /etc/passwd | awk "{print $1}")
+  116  PERMISSIONS=$(ls -l /etc/passwd | awk '{print $1}')
+  117  echo "Number of processes named bioset: $PROCESS_COUNT"
+  118  echo "File permissions /etc/passwd: $PERMISSIONS"
+  119  PERMS=$(ls -l /etc/passwd | awk '{print $1}')
+  120  PERMS=$(ls -l /etc/hosts | awk '{print $1}')
+  121  echo >>"Права на файл /etc/hosts: $PERMS"
+  122  echo >> "Права на файл /etc/hosts: $PERMS"
+  123  echo "Права на файл /etc/hosts: $PERMS"
+  124  history
+  125  nano myfirstbashscript.sh
+  126  н
+  127  history
+  128  git clone git@github.com:Goncharenko-Stepan/bashscripts.git
+  129  cd bashscripts 
+  130  ls -la
+  131  ls -la | grep .gitignore
+  132  nano .gitignore
+  133  echo "# git" >> README.md
+  134  ls -l
+  135  git init
+  136  ls -la
+  137  git rev-parse --show-toplevel
+  138  git add .
+  139  history
+  140  git commit -m "first commit"
+  141  git status
+  142  git branch -M main
+  143  git status
+  144  git remote add origin git@github.com:Goncharenko-Stepan/git.git
+  145  git remote add origin git@github.com:Goncharenko-Stepan/git.git
+  146  git push -u origin main
+  147  clear
+  148  ls -la
+  149  nano README.md
+  150  git status
+  151  git add .
+  152  git status
+  153  git commit -m "Amogusssss"
+  154  git push
+  155  git remote -v
+  156  git branch
+  157  git branch
+  158  git branch test
+  159  git branch
+  160  git checkout test
+  161  ls -la
+  162  touch Goncharenko_Stpan.txt
+  163  git status
+  164  git add Goncharenko_Stpan.txt 
+  165  git status
+  166  git commit -m "Edit file"
+  167  git push
+  168  git push --m origin test
+  169  git push --set-upstream origin main
+  170  git branch
+  171  git branch -d test
+  172  git branch -D test
+  173  git checkout main
+  174  git branch -d test
+  175  git branch
+  176  git log
+  177  git init
+  178  git add .
+  179  git init git-branch
+  180  cd git branch
+  181  git branch
+  182  git branch gitignore
+  183  git branch -M main
+  184  git branch gitignore
+  185  git checkout gitignore
+  186  git checkout gitignore
+  187  git checkout -b gitignore
+  188  git branch
+  189  git branch -a
+  190  foulder .gitignore
+  191  git clone https://github.com/Goncharenko-Stepan/git-branch
+  192  git add .gitignore
+  193  git add .gitignore
+  194  git add .gitignore
+  195  ls -la
+  196  cd..
+  197  cd
+  198  cd /root
+  199  cd /root/
+  200  git branch -D
+  201  git branch -D gitignore
+  202  git checkout main
+  203  cd main
+  204  git branch
+  205  git branch
+  206  git checkout main
+  207  git branch -b
+  208  git branch
+  209  exit
+  210  git checkout gitignore
+  211  git checkout master
+  212  ls -l
+  213  git rev-parse --show-toplevel
+  214  git branch
+  215  history
+  216  rm -rf .git/
+  217  ls -l
+  218  ls -la
+  219  nano .gitignore.txt
+  220  git checkout -b gitignore
+  221  git add .gitignore.txt
+  222  git status
+  223  git commit -m "I was add .gitignore"
+  224  git remote add origin git@github.com:Goncharenko-Stepan/git-branch.git
+  225  git push -u origin gitignore
+  226  git push -u origin gitignore
+  227  ls -la
+  228  ssh-keygen
+  229  ls -la
+  230  cat id_ed25519
+  231  cat id_ed25519.pub
+  232  [200~ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de~
+  233  ssh/id_rsa ec2-user@linux.itcareerhub.de
+  234  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  235  [200~ssh ec2-user@linux.itcareerhub.de~
+  236  .ssh
+  237  cat ~/.ssh/id_rsa.pud
+  238  cat ~/.ssh/id_rsa.pub
+  239  ls -la
+  240  ls .ssh
+  241  cat id_ed25519.pub
+  242  cat /id_ed25519.pub
+  243  cat id_ed25519.pub
+  244  cd /.ssh
+  245  cd ~/.ssh
+  246  ls -la
+  247  cat id_ed25519.pub
+  248  св
+  249  cd
+  250  200~ssh ec2-user@linux.itcareerhub.de
+  251  ssh ec2-user@linux.itcareerhub.de
+  252  mkdir Work
+  253  cd /root/work
+  254  cd work
+  255  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  256  git init
+  257  git add .
+  258  git status
+  259  git commit -m "Initial commit"
+  260  git remote add origin git@github.com:Goncharenko-Stepan/Work-git.git
+  261  git remote
+  262  git branch -M main
+  263  git push -u origin main 
+  264  git remote -v
+  265  git (fetch)
+  266  cd
+  267  git log
+  268  cd /Desktop/Work-git
+  269  cd
+  270  git branch
+  271  git init
+  272  echo "# gitignore" >> README.md
+  273  git branch -M feature
+  274  git checkout -b main
+  275  echo "# gitignore" >> README.md
+  276  git checkout feature
+  277  git add README.md .gitignore
+  278  git add README.md .gitignore.txt
+  279  git init
+  280  git clone git@github.com:Goncharenko-Stepan/gitignore.git
+  281  cd git@github.com:Goncharenko-Stepan/gitignore.git
+  282  git clone git@github.com:Goncharenko-Stepan/gitignore.git
+  283  cd git@github.com:Goncharenko-Stepan/gitignore.git
+  284  cd gitignore
+  285  git checkout -b feature
+  286  git add README.cd .gitignore
+  287  echo "# gitignore" >> README.md
+  288  echo "# gitignore" >> .gitignore
+  289  git add README.cd .gitignore
+  290  git add README.md .gitignore
+  291  git config --global core.autocrlf true
+  292  git add README.md .gitignore
+  293  git commit -m "I was add the changes at README.md and .gitignore"
+  294  git push origin feature
+  295  git commit --amend
+  296  git commit --amend
+  297  git commit --amend -m
+  298  git checkout main
+  299  git checkout master
+  300  git branch
+  301  git checkout git branch
+  302  git checkout -b main
+  303  git merge feature
+  304  git branch
+  305  git merge feature
+  306  git checkout feature
+  307  git merge main
+  308  git pull origin main
+  309  git remote -v
+  310  git show
+  311  git branch -d main
+  312  git branch -M main
+  313  history > history.txt
